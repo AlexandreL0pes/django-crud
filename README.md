@@ -1,6 +1,5 @@
 <div align="center">
     <img alt="Logo" title="#logo" width="100px" height="100px" src="https://img.icons8.com/all/500/django.png">
-    
     <img alt="Logo" title="#logo" width="100px" height="100px" src="https://www.postgresql.org/media/img/about/press/elephant.png">
     <br><br>
     <h1>CRUD Django</h1>
