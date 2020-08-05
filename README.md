@@ -1,9 +1,8 @@
-# django-crud
-Um CRUD simples utilizando Django + PostgreSQL
 <div align="center">
     <img alt="Logo" title="#logo" width="300px" src="https://img.icons8.com/all/500/django.png">
     <br><br>
     <h1>CRUD Django</h1>
+    <h2>Um CRUD simples utilizando Django + PostgreSQL</h2>
     <br>
 </div>
 
