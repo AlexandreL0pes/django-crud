@@ -1,5 +1,7 @@
 <div align="center">
     <img alt="Logo" title="#logo" width="100px" height="100px" src="https://img.icons8.com/all/500/django.png">
+    +   
+    <img alt="Logo" title="#logo" width="100px" height="100px" src="https://f0.pngfuel.com/png/358/849/postgresql-database-logo-database-symbol-png-clip-art.png">
     <br><br>
     <h1>CRUD Django</h1>
     <h2>Um CRUD simples utilizando Django + PostgreSQL</h2>
